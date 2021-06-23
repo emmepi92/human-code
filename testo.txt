@@ -1,0 +1,58 @@
+1.Ti sei appena svegliato, è il momento di bere un bel bicchiere di latte caldo
+
+se sta suonando la svegliato:
+        se è la tua:
+            spegni la sveglia ->
+        se non è la tua o non sta suonando alcuna sveglia:
+            torna a dormire;
+            dormi finchè non suona la tua sveglia;
+-> dove sei?
+    casa non tua:
+        scappa;
+    casa tua:
+        alzati e vai in cucina
+        se hai la macchina del caffe:
+            se con cialde o non hai la macchina del caffè:
+                controlla se c'è il latte in frigo:
+                    se c'è:
+                        prendilo;
+                        funzione RiscaldaIlLatte:
+                            prendi un pentolino;
+                            versa il latte nel pentolino;
+                            accendi il fuoco;
+                            metti sul fuoco il pentolino;
+                            prendi un cucchiaio;
+                                finche il latte non è caldo:
+                                    prendi il cucchiaio;
+                                    assaggia;
+                            bevi; ---> FINE
+                    se non c'è: 
+                        oggi sei un respiriano;                
+            se con capsule:
+                prendi la cialda del latte all'unicorno;
+                guarda nel ripiano,
+                    se c'è una tazza:
+                        prendila;
+                    altrimenti:
+                        apri la lavastoviglie;
+                        prendi una tazza;
+                    mettila sotto la macchinetta;                
+                accediamo la macchinetta
+                finchè la macchinetta non è pronta:
+                    leggi gli ingredienti sulla confezione;
+                prendi la capsula;
+                inseriscila nella macchinetta;
+                premi avvio;
+                stoppa;
+                prendi la tazza;
+                assaggia, ma è freddo:
+                    se hai un micronde:
+                        finchè il latte di unicorno non è caldo:
+                            metti la tazza nel microonde;
+                            aziona il micronde:
+                            imposta 30 secondi;
+                            prendi la tazza;
+                            controlla se caldo;
+                    altrimenti:
+                        funzione RiscaldaIlLatte;
+                    
