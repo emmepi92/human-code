@@ -1,6 +1,6 @@
 1.Ti sei appena svegliato, è il momento di bere un bel bicchiere di latte caldo
 
-se sta suonando la svegliato:
+se sta suonando la sveglia:
         se è la tua:
             spegni la sveglia ->
         se non è la tua o non sta suonando alcuna sveglia:
@@ -29,7 +29,7 @@ se sta suonando la svegliato:
                     se non c'è: 
                         oggi sei un respiriano;                
             se con capsule:
-                prendi la cialda del latte all'unicorno;
+                prendi la capsula del latte all'unicorno;
                 guarda nel ripiano,
                     se c'è una tazza:
                         prendila;
@@ -37,9 +37,9 @@ se sta suonando la svegliato:
                         apri la lavastoviglie;
                         prendi una tazza;
                     mettila sotto la macchinetta;                
-                accediamo la macchinetta
+                accedi la macchinetta
                 finchè la macchinetta non è pronta:
-                    leggi gli ingredienti sulla confezione;
+                    leggi gli ingredienti cancerogeni sulla confezione;
                 prendi la capsula;
                 inseriscila nella macchinetta;
                 premi avvio;
