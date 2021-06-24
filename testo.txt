@@ -17,7 +17,7 @@ funzione CercaIlLatte() {
     controlla se c'è il latte in frigo:
     se c'è:
         prendilo;
-        funzione RiscaldaIlLatte:
+        funzione RiscaldaIlLatte():
     se non c'è: 
         oggi sei un respiriano; 
 }
@@ -48,7 +48,7 @@ se sta suonando la sveglia:
         alzati e vai in cucina;
         se hai la macchina del caffe:
             se con cialde:
-                funzione CercaIlLatte;               
+                funzione CercaIlLatte();               
             se con capsule:
                 prendi la capsula del latte all'unicorno dal porta-capsule;
                 guarda nel ripiano;
