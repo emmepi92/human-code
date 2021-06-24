@@ -1,5 +1,40 @@
 1.Ti sei appena svegliato, è il momento di bere un bel bicchiere di latte caldo
 
+------FUNZIONI------
+
+funzione RiscaldaIlLatte() {
+    prendi un pentolino;
+    versa il latte nel pentolino;
+    accendi il fuoco;
+    metti sul fuoco il pentolino;
+    finche il latte non è caldo:
+        prendi il cucchiaio;
+        assaggia;
+    bevi;
+}
+
+funzione CercaIlLatte() {
+    controlla se c'è il latte in frigo:
+    se c'è:
+        prendilo;
+        funzione RiscaldaIlLatte:
+    se non c'è: 
+        oggi sei un respiriano; 
+}
+
+
+-------DATI--------
+
+const frigo = [{},{},...];
+const portaCapsule = [{},{},...];
+const ripiano = [{},{},...];
+const lavastoviglie = [{},{},...]
+const portaCapsule = [ caffe, latte unicorno, latte arcobaleno, ....]
+
+
+
+--------PROGRAMMA--------
+
 se sta suonando la sveglia:
         se è la tua:
             spegni la sveglia ->
@@ -10,33 +45,19 @@ se sta suonando la sveglia:
     casa non tua:
         scappa;
     casa tua:
-        alzati e vai in cucina
+        alzati e vai in cucina;
         se hai la macchina del caffe:
-            se con cialde o non hai la macchina del caffè:
-                controlla se c'è il latte in frigo:
-                    se c'è:
-                        prendilo;
-                        funzione RiscaldaIlLatte:
-                            prendi un pentolino;
-                            versa il latte nel pentolino;
-                            accendi il fuoco;
-                            metti sul fuoco il pentolino;
-                            prendi un cucchiaio;
-                                finche il latte non è caldo:
-                                    prendi il cucchiaio;
-                                    assaggia;
-                            bevi; ---> FINE
-                    se non c'è: 
-                        oggi sei un respiriano;                
+            se con cialde:
+                funzione CercaIlLatte;               
             se con capsule:
-                prendi la capsula del latte all'unicorno;
-                guarda nel ripiano,
+                prendi la capsula del latte all'unicorno dal porta-capsule;
+                guarda nel ripiano;
                     se c'è una tazza:
                         prendila;
                     altrimenti:
                         apri la lavastoviglie;
                         prendi una tazza;
-                    mettila sotto la macchinetta;                
+                mettila sotto la macchinetta;                
                 accedi la macchinetta
                 finchè la macchinetta non è pronta:
                     leggi gli ingredienti cancerogeni sulla confezione;
@@ -55,4 +76,7 @@ se sta suonando la sveglia:
                             controlla se caldo;
                     altrimenti:
                         funzione RiscaldaIlLatte;
+        se non hai la macchina del caffe:
+            funzione CercaIlLatte();
+
                     
